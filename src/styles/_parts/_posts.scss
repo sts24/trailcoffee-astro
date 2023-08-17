@@ -1,0 +1,150 @@
+.post-article {
+	display: grid;
+
+	grid-template-columns: 100%;
+	grid-template-rows: auto 1fr;
+
+	@media (min-width: 1024px){
+		grid-template-columns: 50% 50%;
+		grid-template-rows: auto 1fr;
+	}
+}
+
+.post-header {
+	grid-area: header;
+	grid-column: 1 / 2;
+	grid-row: 1 / 2;
+
+	z-index: 100;
+	position: relative;
+
+	padding: 1rem;
+	background-image: linear-gradient(to top,rgba(black, 0) 0%, rgba(black, 0.75) 100%);
+	text-shadow: 0 0 3px rgba(black, 0.9), 0 0 20px rgba(black, 0.5);
+
+	h1 {
+		font-family: var(--primary-font);
+		font-size: 2rem;
+		color: white;
+	}
+
+	h2 {
+		color: white;
+		font-size: 1.25rem;
+	}
+
+	p {
+		color: white;
+
+		a {
+			color: var(--lightblue);
+		}
+	}
+
+	@media (min-width: 768px){
+		h1 { font-size: 3rem; }
+		h2 { font-size: 1.5rem; }
+
+		padding: 3rem;
+	}
+
+	@media (min-width: 1024px){
+		position: sticky;
+		top: 0;
+
+		padding: 3rem;
+
+		h1 { font-size: 3rem; }
+		h2 { font-size: 1.5rem; }
+	}
+}
+
+.post-featured-image {
+	grid-area: featured-img;
+	grid-column: 1 / 2;
+	grid-row: 1 / 2;
+
+	position: relative;
+	z-index: 50;
+
+	> picture {
+
+		> img {
+			display: block;
+			width: 100%;
+			height: auto;
+			position: relative;
+			z-index: 150;
+		}
+
+	}
+
+	@media (min-width: 1024px){
+		position: sticky;
+		top: 0;
+		bottom: 0;
+
+		grid-column: 1 / 2;
+		grid-row: 1 / 4;
+
+		> picture > img {
+			position: sticky;
+			top: 0;	
+		}
+	}
+}
+
+.post-content {
+	grid-area: content;
+	grid-column: 1 / 2;
+	grid-row: 2 / 4;
+
+	background: white;
+	padding: 1rem;
+
+	p {
+		font-size: 120%;
+		padding: 0;
+		margin: 0 0 1em 0;
+	}
+
+	@media (min-width: 768px){
+		padding: 3rem;
+	}
+
+	@media (min-width: 1024px){
+		grid-column: 2 / 4;
+		grid-row: 1 / 4;
+
+		padding: 3rem;
+	}
+}
+
+.post-map-view {
+	width: 100%;
+	height: 40vh;
+	min-height: 400px;
+	margin: 3rem 0;
+}
+
+.post-image-gallery {
+
+	picture {
+		display: block;
+		margin: 0 0 1rem 0;
+
+		img {
+			width: 100%;
+			height: auto;
+			display: block;
+		}
+		
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+
+	@media (min-width: 768px){
+		picture { margin: 0 0 3rem 0; }
+	}
+}

@@ -1,0 +1,65 @@
+:root {
+
+    // color names
+    --red: #7B1714;
+    --green: #2C5214;
+    --sand: #d9d5d3;
+    --brown: #524034;
+    --lightblue: #68C1EE;
+    --lightgray: #ebebeb;
+    --midgray: #b1b1b1;
+    --darkgray: #333;
+    --gray: #2d2d2d;
+
+
+    // global colors
+    --color1: var(--red);
+    --color2: var(--sand);
+    --color2-dark: var(--brown);
+    --highlight: var(--lightblue);
+    --logo-color: var(--sand);
+
+    
+    // layout colors
+    --body-color: var(--color2-dark);
+    --body-bg: var(--color2);
+    --link-color: var(--red);
+    --heading-color: var(--red);
+
+    
+    // fonts
+    --primary-font: "Besley", serif;
+    --secondary-font: "National Park", sans-serif;
+    --body-font: var(--secondary-font);
+}
+
+
+// sass mixins and functions //
+
+// convert EMs
+
+@function em($size){
+	@return #{$size/16}em;
+}
+
+
+
+// styles
+
+@mixin blue-waves-bg {
+	background-color: var(--color1-light);
+    background-image: url('../images/waves.svg');
+    background-size: 100px auto;
+}
+
+@mixin light-waves-bg {
+	background-color: var(--midgray);
+    background-image: url('../images/waves-light.svg');
+    background-size: 100px auto;
+}
+
+@mixin chevron-pattern {
+    background-color: var(--color1);
+    background-image: url('../images/chevron-pattern.svg');
+    background-size: auto 120px;
+}

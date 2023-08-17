@@ -1,0 +1,18 @@
+---
+import SiteSearch from "./SiteSearch.astro";
+
+---
+<header class="site-header">
+	<div class="row row-expanded row-spaced row-vertical-center padding-x-1 padding-y-1 site-masthead">
+		<div class="col-auto">
+			<a href="/" class="site-logo"><img src="/images/tc-badge.svg" alt="{{ settings.siteName }}" /></a>
+		</div>
+		<nav class="col-auto" aria-label="Site Navigation">
+			<ul class="site-nav-list">
+				<li><a href="/" class="site-nav-link">Latest Hikes</a></li>
+				<li><a href="/places" class="site-nav-link">Find by Region</a></li>
+				<li><SiteSearch /></li>
+			</ul>
+		</nav>
+	</div>
+</header>

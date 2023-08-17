@@ -1,0 +1,55 @@
+.places-index-title {
+	font-family: var(--primary-font);
+}
+
+.places-page-heading {
+	color: white;
+	font-family: var(--primary-font);
+	font-size: 21px;
+	background-image: url('/_includes/svg/contour-lines.svg');
+	background-size: cover;
+	padding: 2rem 1rem;
+
+	@media (min-width: 768px){
+		font-size: 36px;
+		padding: 3rem 1rem;
+	}
+}
+
+.places-index-link {
+
+	display: block;
+	color: white;
+	font-size: 21px;
+	font-family: var(--primary-font);
+	padding: 1rem;
+	height: 100%;
+	background-image: url('/_includes/svg/contour-lines.svg');
+	background-size: cover;
+
+}
+
+.places-nav {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+
+#map-all-places {
+	.mapboxgl-marker {
+		&:hover {
+			cursor: pointer;
+			z-index: 1000;
+		}
+	}
+
+	.mapboxgl-popup-content {
+		padding: 5px;
+		line-height: 1em;
+		font-weight: bold;
+	}
+}

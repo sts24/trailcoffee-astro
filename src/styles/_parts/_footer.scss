@@ -1,0 +1,38 @@
+.site-footer {
+	background-color: var(--color2-dark);
+	color: white;
+
+	a {
+		color: var(--highlight);
+	}
+}
+
+.site-places {
+	header {
+		color: var(--color2);
+		font-family: var(--primary-font);
+		font-size: 36px;
+		font-weight: normal;
+		margin-bottom: 2rem;
+	}
+
+	ul {
+		width: 100%;
+		padding: 0;
+		margin: 0;
+		list-style: none;
+
+		li {
+			padding: 0;
+			margin: 0;
+
+			a {
+				font-size: 21px;
+			}
+		}
+	}
+
+	@media (min-width: 768px){
+		ul { columns: 3 auto; }
+	}
+}

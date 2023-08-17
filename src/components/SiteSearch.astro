@@ -1,0 +1,14 @@
+<form class="site-search-wrapper" x-data="search()" x-init="init()"></form>
+
+	<label for="site-search" class="sr-only">Search</label>
+	<input id="site-search" name="search" type="search" placeholder="Search Trail Coffee" class="site-search-field" x-model="searchTerm" x-on:keyup="getSearchData($el)" x-on:keyup.escape="searchTerm = ''; searchResults = []" />
+
+	<template x-if="searchResults.length > 0">
+		<ul class="site-search-results" @click.away="searchResults = []">
+			<template x-for="item in searchResults">
+				<li><a :href="item.url" x-text="item.title"></a></li>
+			</template>
+		</ul>
+	</template
+
+</form>
