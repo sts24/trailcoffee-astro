@@ -1,15 +1,17 @@
 ---
 import { Cloudinary } from 'astro-cloudinary-image';
 import Base from './Base.astro';
+import placesData from '../data/places.json';
 
 const { frontmatter } = Astro.props;
+const placeTag = placesData[frontmatter.tags];
 ---
 <Base title={frontmatter.title}>
   <article class="post-article">
 		<header class="post-header">
 			<h1 class="margin-x-0">{ frontmatter.title }</h1>
 			<h2 class="margin-x-0">{ frontmatter.excerpt }</h2>
-			<p>{ frontmatter.tags }</p>
+			<p><a href={`/places/${placeTag.slug}`}>{ placeTag.fullname }</a></p>
 		</header>
 
 		{ frontmatter.image !== '' &&
