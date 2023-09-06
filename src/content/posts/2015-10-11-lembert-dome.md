@@ -4,24 +4,24 @@ date: 2015-10-11T22:24:14+00:00
 excerpt: Yosemite National Park
 permalink: /lembert-dome/
 coords: '37.880560884678495, -119.3489308175895'
-image: "/v1580148807/trailcoffee/IMG_3513.jpg"
+image: "trailcoffee/IMG_3513.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_2176.jpg"
+    image: "trailcoffee/IMG_2176.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3501.jpg"
+    image: "trailcoffee/IMG_3501.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3505.jpg"
+    image: "trailcoffee/IMG_3505.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3513.jpg"
+    image: "trailcoffee/IMG_3513.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5123.jpg"
+    image: "trailcoffee/IMG_5123.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5136_3989.jpg"
+    image: "trailcoffee/IMG_5136_3989.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_6149.jpg"
+    image: "trailcoffee/IMG_6149.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/STA_5124.jpg"
+    image: "trailcoffee/STA_5124.jpg"
 tags:
   - yosemite
 ---

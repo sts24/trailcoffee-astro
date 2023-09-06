@@ -5,28 +5,28 @@ excerpt: Santa Monica Mountains
 permalink: /sandstone-peak/
 coords: '34.12032845399646, -118.93204910583131'
 geojson: Sandstone-Peak.geojson
-image: "/v1580148807/trailcoffee/DSCF3062.jpg"
+image: "trailcoffee/DSCF3062.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3053.jpg"
+    image: "trailcoffee/DSCF3053.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3062.jpg"
+    image: "trailcoffee/DSCF3062.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_1493.jpg"
+    image: "trailcoffee/IMG_1493.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_1498.jpg"
+    image: "trailcoffee/IMG_1498.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_1500.jpg"
+    image: "trailcoffee/IMG_1500.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_1502.jpg"
+    image: "trailcoffee/IMG_1502.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5443-Pano.jpg"
+    image: "trailcoffee/IMG_5443-Pano.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5446.jpg"
+    image: "trailcoffee/IMG_5446.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5455.jpg"
+    image: "trailcoffee/IMG_5455.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/Photo-May-08-12-31-19-PM.jpg"
+    image: "trailcoffee/Photo-May-08-12-31-19-PM.jpg"
 tags:
   - santa-monica-mountains
 ---

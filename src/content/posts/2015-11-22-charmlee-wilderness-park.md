@@ -5,20 +5,20 @@ excerpt: Malibu, Ca
 permalink: /charmlee-wilderness-park/
 coords: '34.05826781474388, -118.87932526951833'
 geojson: Charmlee.geojson
-image: "/v1580148807/trailcoffee/IMG_8671.jpg"
+image: "trailcoffee/IMG_8671.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_8659.jpg"
+    image: "trailcoffee/IMG_8659.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_8671.jpg"
+    image: "trailcoffee/IMG_8671.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_8676.jpg"
+    image: "trailcoffee/IMG_8676.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_8677.jpg"
+    image: "trailcoffee/IMG_8677.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_8679.jpg"
+    image: "trailcoffee/IMG_8679.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_8698.jpg"
+    image: "trailcoffee/IMG_8698.jpg"
 tags:
   - santa-monica-mountains
 ---

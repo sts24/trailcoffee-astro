@@ -5,32 +5,32 @@ excerpt: Big Bear Lake, Ca
 permalink: /bluff-lake-and-champion-lodgepole-pine/
 coords: '34.21974862855863, -116.97089050914485'
 geojson: Champion-Lodge-Pine.geojson
-image: "/v1580148807/trailcoffee/DSCF4326.jpg"
+image: "trailcoffee/DSCF4326.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4339.jpg"
+    image: "trailcoffee/DSCF4339.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4346.jpg"
+    image: "trailcoffee/DSCF4346.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4295.jpg"
+    image: "trailcoffee/DSCF4295.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4296.jpg"
+    image: "trailcoffee/DSCF4296.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4302.jpg"
+    image: "trailcoffee/DSCF4302.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4305.jpg"
+    image: "trailcoffee/DSCF4305.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4310.jpg"
+    image: "trailcoffee/DSCF4310.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4313.jpg"
+    image: "trailcoffee/DSCF4313.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4317.jpg"
+    image: "trailcoffee/DSCF4317.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4323.jpg"
+    image: "trailcoffee/DSCF4323.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4326.jpg"
+    image: "trailcoffee/DSCF4326.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4336.jpg"
+    image: "trailcoffee/DSCF4336.jpg"
 tags:
   - san-bernardino-mountains
 ---

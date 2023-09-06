@@ -4,22 +4,22 @@ date: 2016-07-09T23:38:59+00:00
 excerpt: Inyo National Forest
 permalink: /ancient-bristlecone-pine-forest/
 coords: '37.38532589726982, -118.17819697363386'
-image: "/v1580148807/trailcoffee/DSCF2647.jpg"
+image: "trailcoffee/DSCF2647.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2620.jpg"
+    image: "trailcoffee/DSCF2620.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2615.jpg"
+    image: "trailcoffee/DSCF2615.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2626.jpg"
+    image: "trailcoffee/DSCF2626.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2629.jpg"
+    image: "trailcoffee/DSCF2629.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2647.jpg"
+    image: "trailcoffee/DSCF2647.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2650.jpg"
+    image: "trailcoffee/DSCF2650.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2651-Edit.jpg"
+    image: "trailcoffee/DSCF2651-Edit.jpg"
 tags:
   - eastern-sierra-nevada
 ---

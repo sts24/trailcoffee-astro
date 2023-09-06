@@ -5,32 +5,32 @@ excerpt: Malibu, Ca
 permalink: /solstice-canyon/
 coords: '34.0377171118512, -118.74739945912927'
 geojson: Solstice-Canyon.geojson
-image: "/v1580148807/trailcoffee/DSCF4271.jpg"
+image: "trailcoffee/DSCF4271.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4226.jpg"
+    image: "trailcoffee/DSCF4226.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4233.jpg"
+    image: "trailcoffee/DSCF4233.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4238.jpg"
+    image: "trailcoffee/DSCF4238.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4242.jpg"
+    image: "trailcoffee/DSCF4242.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4243.jpg"
+    image: "trailcoffee/DSCF4243.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4261.jpg"
+    image: "trailcoffee/DSCF4261.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4248.jpg"
+    image: "trailcoffee/DSCF4248.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4253.jpg"
+    image: "trailcoffee/DSCF4253.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4262.jpg"
+    image: "trailcoffee/DSCF4262.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4271.jpg"
+    image: "trailcoffee/DSCF4271.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4274.jpg"
+    image: "trailcoffee/DSCF4274.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4277.jpg"
+    image: "trailcoffee/DSCF4277.jpg"
 tags:
   - santa-monica-mountains
 ---

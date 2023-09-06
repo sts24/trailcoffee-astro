@@ -4,28 +4,28 @@ date: 2016-12-19T01:46:18+00:00
 excerpt: Death Valley
 permalink: /texas-spring-campground/
 coords: '36.459586787661785, -116.85565939844257'
-image: "/v1580148807/trailcoffee/IMG_5325.jpg"
+image: "trailcoffee/IMG_5325.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5111_45331.jpg"
+    image: "trailcoffee/IMG_5111_45331.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_4974.jpg"
+    image: "trailcoffee/IMG_4974.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_4298.jpg"
+    image: "trailcoffee/IMG_4298.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_4973.jpg"
+    image: "trailcoffee/IMG_4973.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3294.jpg"
+    image: "trailcoffee/DSCF3294.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5325.jpg"
+    image: "trailcoffee/IMG_5325.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3298.jpg"
+    image: "trailcoffee/DSCF3298.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3289.jpg"
+    image: "trailcoffee/DSCF3289.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3368.jpg"
+    image: "trailcoffee/DSCF3368.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3370.jpg"
+    image: "trailcoffee/DSCF3370.jpg"
 tags:
   - death-valley
 ---

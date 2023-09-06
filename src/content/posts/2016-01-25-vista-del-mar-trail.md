@@ -5,24 +5,24 @@ excerpt: Newbury Park, Ca
 permalink: /vista-del-mar-trail/
 coords: '34.169536793294036, -118.99704576613179'
 geojson: Vista-Del-Mar-Trail.geojson
-image: "/v1580148807/trailcoffee/7648F875-7E40-44B5-80E9-C59E4EDF3FCC.jpg"
+image: "trailcoffee/7648F875-7E40-44B5-80E9-C59E4EDF3FCC.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/0B8653EE-5D46-4421-960B-ABEFC6AECE4B.jpg"
+    image: "trailcoffee/0B8653EE-5D46-4421-960B-ABEFC6AECE4B.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/2CC3B9FE-BE92-4FB7-976B-52EF44C5D82B.jpg"
+    image: "trailcoffee/2CC3B9FE-BE92-4FB7-976B-52EF44C5D82B.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/556E349E-D8AF-4172-A390-0CE3732998AA.jpg"
+    image: "trailcoffee/556E349E-D8AF-4172-A390-0CE3732998AA.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/6195EDBF-61D1-48A8-B7BF-1C28AA58416A.jpg"
+    image: "trailcoffee/6195EDBF-61D1-48A8-B7BF-1C28AA58416A.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/7648F875-7E40-44B5-80E9-C59E4EDF3FCC.jpg"
+    image: "trailcoffee/7648F875-7E40-44B5-80E9-C59E4EDF3FCC.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/51122043-2836-43D0-BE17-30F6D2294A1A.jpg"
+    image: "trailcoffee/51122043-2836-43D0-BE17-30F6D2294A1A.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/D8EB7E78-42DB-4156-A0EF-13B097B566E3.jpg"
+    image: "trailcoffee/D8EB7E78-42DB-4156-A0EF-13B097B566E3.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/FD10A29E-012A-4DC9-BC22-65987F9D3B36.jpg"
+    image: "trailcoffee/FD10A29E-012A-4DC9-BC22-65987F9D3B36.jpg"
 tags:
   - ventura-county
 ---

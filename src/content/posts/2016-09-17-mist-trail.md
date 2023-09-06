@@ -4,26 +4,26 @@ date: 2016-09-17T18:19:35+00:00
 excerpt: Yosemite National Park
 permalink: /mist-trail/
 coords: '37.726098321527196, -119.54906023194147'
-image: "/v1580148807/trailcoffee/IMG_3305.jpg"
+image: "trailcoffee/IMG_3305.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3305.jpg"
+    image: "trailcoffee/IMG_3305.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_2835.jpg"
+    image: "trailcoffee/IMG_2835.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3323.jpg"
+    image: "trailcoffee/IMG_3323.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3319.jpg"
+    image: "trailcoffee/IMG_3319.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3326.jpg"
+    image: "trailcoffee/IMG_3326.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3313.jpg"
+    image: "trailcoffee/IMG_3313.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3333.jpg"
+    image: "trailcoffee/IMG_3333.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3342.jpg"
+    image: "trailcoffee/IMG_3342.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3349.jpg"
+    image: "trailcoffee/IMG_3349.jpg"
 tags:
   - yosemite
 ---

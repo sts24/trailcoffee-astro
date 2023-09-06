@@ -5,20 +5,20 @@ excerpt: Simi Valley, Ca
 permalink: /china-flat-in-simi-valley/
 coords: '34.20647817185624, -118.77627751600582'
 geojson: China-flat.geojson
-image: "/v1580148807/trailcoffee/IMG_3090.jpg"
+image: "trailcoffee/IMG_3090.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3100.jpg"
+    image: "trailcoffee/IMG_3100.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3094.jpg"
+    image: "trailcoffee/IMG_3094.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3090.jpg"
+    image: "trailcoffee/IMG_3090.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3091.jpg"
+    image: "trailcoffee/IMG_3091.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3086.jpg"
+    image: "trailcoffee/IMG_3086.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_3088.jpg"
+    image: "trailcoffee/IMG_3088.jpg"
 tags:
   - ventura-county
 ---

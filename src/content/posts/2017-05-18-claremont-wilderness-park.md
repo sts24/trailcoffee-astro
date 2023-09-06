@@ -5,32 +5,32 @@ excerpt: Claremont, Ca
 permalink: /claremont-wilderness-park/
 coords: '34.14265135617405, -117.70781315859838'
 geojson: Claremont-Wilderness-Trail.geojson
-image: "/v1580148807/trailcoffee/IMG_5245.jpg"
+image: "trailcoffee/IMG_5245.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5241.jpg"
+    image: "trailcoffee/IMG_5241.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5242.jpg"
+    image: "trailcoffee/IMG_5242.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5245.jpg"
+    image: "trailcoffee/IMG_5245.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5248.jpg"
+    image: "trailcoffee/IMG_5248.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5251.jpg"
+    image: "trailcoffee/IMG_5251.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5252.jpg"
+    image: "trailcoffee/IMG_5252.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5254.jpg"
+    image: "trailcoffee/IMG_5254.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5256.jpg"
+    image: "trailcoffee/IMG_5256.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5258.jpg"
+    image: "trailcoffee/IMG_5258.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5262.jpg"
+    image: "trailcoffee/IMG_5262.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5264.jpg"
+    image: "trailcoffee/IMG_5264.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5266.jpg"
+    image: "trailcoffee/IMG_5266.jpg"
 tags:
   - san-gabriel-mountains
 ---
