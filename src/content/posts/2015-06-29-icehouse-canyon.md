@@ -2,7 +2,7 @@
 title: Icehouse Canyon
 date: 2015-06-29T01:15:33+00:00
 excerpt: San Gabriel Mountains
-permalink: /icehouse-canyon/
+slug: icehouse-canyon
 coords: '34.250171878454665, -117.63601463300084'
 image: "trailcoffee/IMG_1959.jpg"
 images:

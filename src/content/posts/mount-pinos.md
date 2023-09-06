@@ -2,7 +2,7 @@
 date: 2021-01-05T20:38:31.000-08:00
 title: Mount Pinos
 excerpt: Los Padres National Forest
-permalink: /mount-pinos/
+slug: mount-pinos
 coords: 34.812855353757435, -119.14555738332662
 gpx: 'mount-pinos.gpx'
 image: "trailcoffee/IMG_1404_opwppm.jpg"

@@ -2,7 +2,7 @@
 title: North Dome
 date: 2015-06-08T01:24:20+00:00
 excerpt: Yosemite National Park
-permalink: /north-dome/
+slug: north-dome
 coords: '37.756835553882624, -119.56016379582525'
 image: "trailcoffee/IMG_9889.jpg"
 images:

@@ -2,7 +2,7 @@
 title: Hidden Valley
 date: 2015-12-29T02:19:08+00:00
 excerpt: Joshua Tree National Park
-permalink: /hidden-valley/
+slug: hidden-valley
 coords: '34.01186487731279, -116.169459956855'
 image: "trailcoffee/IMG_3168.jpg"
 images:

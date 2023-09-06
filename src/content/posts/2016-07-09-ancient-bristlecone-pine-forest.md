@@ -2,7 +2,7 @@
 title: Ancient Bristlecone Pine Forest
 date: 2016-07-09T23:38:59+00:00
 excerpt: Inyo National Forest
-permalink: /ancient-bristlecone-pine-forest/
+slug: ancient-bristlecone-pine-forest
 coords: '37.38532589726982, -118.17819697363386'
 image: "trailcoffee/DSCF2647.jpg"
 images:

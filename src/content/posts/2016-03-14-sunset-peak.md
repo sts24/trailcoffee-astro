@@ -2,7 +2,7 @@
 title: Sunset Peak
 date: 2016-03-14T02:06:21+00:00
 excerpt: San Gabriel Mountains
-permalink: /sunset-peak/
+slug: sunset-peak
 coords: '34.21643822001392, -117.68932214417018'
 image: "trailcoffee/IMG_3030.jpg"
 images:

@@ -2,7 +2,7 @@
 title: Paramount Ranch
 date: 2015-08-31T02:08:24+00:00
 excerpt: Santa Monica Mountains
-permalink: /paramount-ranch/
+slug: paramount-ranch
 coords: '34.11705035285639, -118.75481853328614'
 image: "trailcoffee/DSCF1835.jpg"
 images:

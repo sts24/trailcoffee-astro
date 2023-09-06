@@ -2,7 +2,7 @@
 title: Claremont Wilderness Park
 date: 2017-05-18T02:55:25+00:00
 excerpt: Claremont, Ca
-permalink: /claremont-wilderness-park/
+slug: claremont-wilderness-park
 coords: '34.14265135617405, -117.70781315859838'
 geojson: Claremont-Wilderness-Trail.geojson
 image: "trailcoffee/IMG_5245.jpg"

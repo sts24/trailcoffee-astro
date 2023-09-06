@@ -2,7 +2,7 @@
 title: Sandstone Peak
 date: 2015-06-25T02:20:41+00:00
 excerpt: Santa Monica Mountains
-permalink: /sandstone-peak/
+slug: sandstone-peak
 coords: '34.12032845399646, -118.93204910583131'
 geojson: Sandstone-Peak.geojson
 image: "trailcoffee/DSCF3062.jpg"

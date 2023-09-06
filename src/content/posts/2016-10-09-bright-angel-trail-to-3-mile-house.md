@@ -2,7 +2,7 @@
 title: Bright Angel Trail to 3 Mile House
 date: 2016-10-09T23:45:26+00:00
 excerpt: Grand Canyon South Rim
-permalink: /bright-angel-trail-to-3-mile-house/
+slug: bright-angel-trail-to-3-mile-house
 coords: '36.05767598536565, -112.14380248764297'
 image: "trailcoffee/IMG_2663_3097.jpg"
 images:

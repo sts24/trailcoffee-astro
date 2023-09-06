@@ -2,7 +2,7 @@
 title: Rocky Peak
 date: 2015-09-27T23:30:20+00:00
 excerpt: Simi Valley, Ca
-permalink: /rocky-peak/
+slug: rocky-peak
 coords: '34.26832744643703,-118.63760541189211'
 image: "trailcoffee/IMG_9093.jpg"
 images:

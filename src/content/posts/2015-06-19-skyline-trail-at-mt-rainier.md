@@ -2,7 +2,7 @@
 title: Skyline Trail
 date: 2015-06-19T02:12:47+00:00
 excerpt: Mt. Rainier National Park
-permalink: /skyline-trail-at-mt-rainier/
+slug: skyline-trail-at-mt-rainier
 coords: '46.78578042650103, -121.73528335154592'
 image: "trailcoffee/DSCF2751.jpg"
 images:

@@ -2,7 +2,7 @@
 title: Rancho Sierra Vista
 date: 2015-08-18T02:39:29+00:00
 excerpt: Newbury Park, Ca
-permalink: /rancho-sierra-vista/
+slug: rancho-sierra-vista
 coords: '34.15270497954094, -118.96634528072882'
 geojson: Sycamore-Canyon-Falls-Newbury-Park.geojson
 image: "trailcoffee/IMG_2557.jpg"

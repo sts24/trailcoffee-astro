@@ -2,7 +2,7 @@
 title: Anacapa Island
 date: 2015-07-30T02:44:34+00:00
 excerpt: Channel Islands National Park
-permalink: /anacapa-island/
+slug: anacapa-island
 coords: '34.01547251458818, -119.36467847374855'
 image: "trailcoffee/IMG_1623.jpg"
 images:

@@ -2,7 +2,7 @@
 title: Mosaic Canyon
 date: 2016-09-11T20:38:04+00:00
 excerpt: Death Valley National Park
-permalink: /mosaic-canyon/
+slug: mosaic-canyon
 coords: '36.571917270890424, -117.14443551041539'
 image: "trailcoffee/IMG_5180_45396.jpg"
 images:

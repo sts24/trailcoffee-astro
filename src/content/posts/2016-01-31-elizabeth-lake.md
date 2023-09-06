@@ -2,7 +2,7 @@
 title: Elizabeth Lake
 date: 2016-01-31T23:35:27+00:00
 excerpt: Tuolumne Meadows
-permalink: /elizabeth-lake/
+slug: elizabeth-lake
 coords: '37.84491224575275, -119.36872258591804'
 image: "trailcoffee/IMG_5091_4139.jpg"
 images:

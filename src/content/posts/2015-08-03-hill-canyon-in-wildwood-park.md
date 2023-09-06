@@ -2,7 +2,7 @@
 title: Hill Canyon
 date: 2015-08-03T03:55:17+00:00
 excerpt: Camarillo, Ca
-permalink: /hill-canyon-in-wildwood-park/
+slug: hill-canyon-in-wildwood-park
 coords: '34.22693139528978, -118.93043588626199'
 geojson: Western-Plateau-Wildwood.geojson
 image: "trailcoffee/IMG_2028.jpg"

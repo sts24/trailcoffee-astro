@@ -2,7 +2,7 @@
 title: Texas Spring Campground
 date: 2016-12-19T01:46:18+00:00
 excerpt: Death Valley
-permalink: /texas-spring-campground/
+slug: texas-spring-campground
 coords: '36.459586787661785, -116.85565939844257'
 image: "trailcoffee/IMG_5325.jpg"
 images:

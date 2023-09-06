@@ -2,7 +2,7 @@
 title: Cheseboro Canyon
 date: 2016-03-23T20:25:42+00:00
 excerpt: Agoura Hills, Ca
-permalink: /cheseboro-canyon/
+slug: cheseboro-canyon
 coords: '34.15615624197106, -118.73113626376333'
 geojson: Cheseboro-long.geojson
 image: "trailcoffee/IMG_3121.jpg"

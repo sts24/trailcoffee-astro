@@ -2,7 +2,7 @@
 title: Charmlee Wilderness Park
 date: 2015-11-22T17:43:12+00:00
 excerpt: Malibu, Ca
-permalink: /charmlee-wilderness-park/
+slug: charmlee-wilderness-park
 coords: '34.05826781474388, -118.87932526951833'
 geojson: Charmlee.geojson
 image: "trailcoffee/IMG_8671.jpg"

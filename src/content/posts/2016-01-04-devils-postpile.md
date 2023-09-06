@@ -2,7 +2,7 @@
 title: "Devils Postpile"
 date: 2016-01-04T02:21:55+00:00
 excerpt: Mammoth Lakes
-permalink: /devils-postpile/
+slug: devils-postpile
 coords: '37.62517656389745, -119.08505150665609'
 image: "trailcoffee/IMG_0272.jpg"
 images:

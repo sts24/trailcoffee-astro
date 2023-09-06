@@ -2,7 +2,7 @@
 title: Mist Trail
 date: 2016-09-17T18:19:35+00:00
 excerpt: Yosemite National Park
-permalink: /mist-trail/
+slug: mist-trail
 coords: '37.726098321527196, -119.54906023194147'
 image: "trailcoffee/IMG_3305.jpg"
 images:

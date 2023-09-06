@@ -2,7 +2,7 @@
 title: Vista Del Mar Trail
 date: 2016-01-25T02:11:29+00:00
 excerpt: Newbury Park, Ca
-permalink: /vista-del-mar-trail/
+slug: vista-del-mar-trail
 coords: '34.169536793294036, -118.99704576613179'
 geojson: Vista-Del-Mar-Trail.geojson
 image: "trailcoffee/7648F875-7E40-44B5-80E9-C59E4EDF3FCC.jpg"
