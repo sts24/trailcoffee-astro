@@ -1,6 +1,7 @@
 ---
 import { Cloudinary } from 'astro-cloudinary-image';
 import Base from './Base.astro';
+import HikeMap from '../components/HikeMap.astro';
 import placesData from '../data/places.json';
 
 const { frontmatter } = Astro.props;
@@ -29,9 +30,11 @@ const placeTag = placesData[frontmatter.tags];
 		<div class="post-content">
 			<slot />
 
-			<!-- { frontmatter.coords !== '' &&
-				<div id="map" class="post-map-view" data-coords="{{ coords }}" data-geojson="{{ geojson }}"></div>
-			} -->
+			{ frontmatter.coords !== '' &&
+				<HikeMap coords={frontmatter.coords} geojson={frontmatter.geojson} />
+			}
+
+			
 
 			{ frontmatter.images.length > 0 &&
 				<div class="post-image-gallery">
