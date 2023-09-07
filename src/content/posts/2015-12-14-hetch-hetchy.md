@@ -2,30 +2,30 @@
 title: Hetch Hetchy
 date: 2015-12-14T02:11:03+00:00
 excerpt: Yosemite National Park
-permalink: /hetch-hetchy/
+slug: hetch-hetchy
 coords: '37.94659423783129, -119.78741013912882'
-image: "/v1580148807/trailcoffee/IMG_9996.jpg"
+image: "trailcoffee/IMG_9996.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9996.jpg"
+    image: "trailcoffee/IMG_9996.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9995.jpg"
+    image: "trailcoffee/IMG_9995.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9984.jpg"
+    image: "trailcoffee/IMG_9984.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9980.jpg"
+    image: "trailcoffee/IMG_9980.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0028.jpg"
+    image: "trailcoffee/IMG_0028.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0023.jpg"
+    image: "trailcoffee/IMG_0023.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0017.jpg"
+    image: "trailcoffee/IMG_0017.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0010.jpg"
+    image: "trailcoffee/IMG_0010.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0003.jpg"
+    image: "trailcoffee/IMG_0003.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0001.jpg"
+    image: "trailcoffee/IMG_0001.jpg"
 tags:
   - yosemite
 ---

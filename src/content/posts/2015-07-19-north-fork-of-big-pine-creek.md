@@ -2,31 +2,31 @@
 title: North Fork of Big Pine Creek
 date: 2015-07-19T23:58:51+00:00
 excerpt: Inyo National Forest
-permalink: /north-fork-of-big-pine-creek/
+slug: north-fork-of-big-pine-creek
 coords: '37.12559873488271, -118.48688704650532'
 geojson: Second-Lake-Big-Pine-Creek.geojson
-image: "/v1580148807/trailcoffee/DSCF3653.jpg"
+image: "trailcoffee/DSCF3653.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3584.jpg"
+    image: "trailcoffee/DSCF3584.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3591.jpg"
+    image: "trailcoffee/DSCF3591.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3594.jpg"
+    image: "trailcoffee/DSCF3594.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3605.jpg"
+    image: "trailcoffee/DSCF3605.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3615.jpg"
+    image: "trailcoffee/DSCF3615.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3617.jpg"
+    image: "trailcoffee/DSCF3617.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3620.jpg"
+    image: "trailcoffee/DSCF3620.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3631.jpg"
+    image: "trailcoffee/DSCF3631.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3641.jpg"
+    image: "trailcoffee/DSCF3641.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF3653.jpg"
+    image: "trailcoffee/DSCF3653.jpg"
 tags:
   - eastern-sierra-nevada
 ---

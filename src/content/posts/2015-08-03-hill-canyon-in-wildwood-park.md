@@ -2,27 +2,27 @@
 title: Hill Canyon
 date: 2015-08-03T03:55:17+00:00
 excerpt: Camarillo, Ca
-permalink: /hill-canyon-in-wildwood-park/
+slug: hill-canyon-in-wildwood-park
 coords: '34.22693139528978, -118.93043588626199'
 geojson: Western-Plateau-Wildwood.geojson
-image: "/v1580148807/trailcoffee/IMG_2028.jpg"
+image: "trailcoffee/IMG_2028.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_2028.jpg"
+    image: "trailcoffee/IMG_2028.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_2024.jpg"
+    image: "trailcoffee/IMG_2024.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_2882.jpg"
+    image: "trailcoffee/IMG_2882.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_2063.jpg"
+    image: "trailcoffee/IMG_2063.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_2883.jpg"
+    image: "trailcoffee/IMG_2883.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_1998.jpg"
+    image: "trailcoffee/IMG_1998.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_2019.jpg"
+    image: "trailcoffee/IMG_2019.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_1640.jpg"
+    image: "trailcoffee/IMG_1640.jpg"
 tags:
   - ventura-county
 ---

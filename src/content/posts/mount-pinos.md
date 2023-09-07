@@ -2,27 +2,27 @@
 date: 2021-01-05T20:38:31.000-08:00
 title: Mount Pinos
 excerpt: Los Padres National Forest
-permalink: /mount-pinos/
+slug: mount-pinos
 coords: 34.812855353757435, -119.14555738332662
 gpx: 'mount-pinos.gpx'
-image: "/v1580148807/trailcoffee/IMG_1404_opwppm.jpg"
+image: "trailcoffee/IMG_1404_opwppm.jpg"
 images:
 - alt: The Chumash monument at the top
-  image: "/v1580148807/trailcoffee/IMG_1408_wnqkpr.jpg"
+  image: "trailcoffee/IMG_1408_wnqkpr.jpg"
 - alt: Looking west from the summit
-  image: "/v1580148807/trailcoffee/IMG_1407_qrv4b0.jpg"
+  image: "trailcoffee/IMG_1407_qrv4b0.jpg"
 - alt: Looking from the summit over the Central Valley to the north
-  image: "/v1580148807/trailcoffee/IMG_1404_qt03uy.jpg"
+  image: "trailcoffee/IMG_1404_qt03uy.jpg"
 - alt: Looking over Pine Mountain Club and the San Emgidio Range
-  image: "/v1580148807/trailcoffee/DSCF6425_vhlefu.jpg"
+  image: "trailcoffee/DSCF6425_vhlefu.jpg"
 - alt: The path that leads to the overlook of Pine Mountain Club
-  image: "/v1580148807/trailcoffee/DSCF6424_ermtn5.jpg"
+  image: "trailcoffee/DSCF6424_ermtn5.jpg"
 - alt: A Western Wallflower
-  image: "/v1580148807/trailcoffee/DSCF6421_sbjmwq.jpg"
+  image: "trailcoffee/DSCF6421_sbjmwq.jpg"
 - alt: Trees near the start of the trail
-  image: "/v1580148807/trailcoffee/DSCF6416_metvqd.jpg"
+  image: "trailcoffee/DSCF6416_metvqd.jpg"
 - alt: The meadow near the Nordic Base at the trailhead
-  image: "/v1580148807/trailcoffee/meadow_gdv97x.jpg"
+  image: "trailcoffee/meadow_gdv97x.jpg"
 tags:
 - ventura-county
 

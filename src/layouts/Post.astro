@@ -1,48 +1,57 @@
 ---
+import { Cloudinary } from 'astro-cloudinary-image';
 import Base from './Base.astro';
+import HikeMap from '../components/HikeMap.astro';
+import placesData from '../data/places.json';
 
 const { frontmatter } = Astro.props;
+const placeTag = placesData[frontmatter.tags];
 ---
 <Base title={frontmatter.title}>
   <article class="post-article">
 		<header class="post-header">
 			<h1 class="margin-x-0">{ frontmatter.title }</h1>
 			<h2 class="margin-x-0">{ frontmatter.excerpt }</h2>
-			<p>{ frontmatter.tags }</p>
+			<p><a href={`/places/${placeTag.slug}`}>{ placeTag.fullname }</a></p>
 		</header>
 
-		<!-- {% if image %}
-
-			{% set imgID = image | getImgID %}
-			{% set imgMeta = imageData[imgID] %}
+		{ frontmatter.image !== '' &&
 			<aside class="post-featured-image">
-				<picture>
-					<source srcset="{% imgPath image, '2400', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
-					<img src="{% imgPath image, '1200', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" />
-				</picture>
+				<Cloudinary 
+					width="1200"
+					resize="fit"
+					alt={`Photo of ${frontmatter.title}`}
+					src={ frontmatter.image }
+					errorImage=''
+				/>
 			</aside>
-		{% endif %} -->
+		}
 
 		<div class="post-content">
 			<slot />
 
-			<!-- {% if coords %}
-				<div id="map" class="post-map-view" data-coords="{{ coords }}" data-geojson="{{ geojson }}"></div>
-			{% endif %} -->
+			{ frontmatter.coords !== '' &&
+				<HikeMap coords={frontmatter.coords} geojson={frontmatter.geojson} />
+			}
 
-			<!-- {% if images %}
+			
+
+			{ frontmatter.images.length > 0 &&
 				<div class="post-image-gallery">
-					{% for img in images %}
-						{% set imgID = img.image | getImgID %}
-						{% set imgMeta = imageData[imgID] %}
+					{ frontmatter.images.map(image => (
+		
+							<Cloudinary 
+								width="1200"
+								resize="fit"
+								alt={image.alt}
+								src={ image.image }
+								errorImage=''
+							/>
+						))
 
-						<picture>
-							<source srcset="{% imgPath img.image, '1200', '', 'fit' %}" media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2)" />
-							<img src="{% imgPath img.image, '600', '', 'fit' %}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" loading="lazy" />
-						</picture>
-					{% endfor %}
+					}
 				</div>
-			{% endif %} -->
+			}
 		</div>
 
 	</article>

@@ -66,18 +66,16 @@
 
 	position: relative;
 	z-index: 50;
-
-	> picture {
-
-		> img {
+		
+	> img {
 			display: block;
 			width: 100%;
 			height: auto;
 			position: relative;
 			z-index: 150;
-		}
-
 	}
+
+	
 
 	@media (min-width: 1024px){
 		position: sticky;
@@ -87,7 +85,7 @@
 		grid-column: 1 / 2;
 		grid-row: 1 / 4;
 
-		> picture > img {
+		> img {
 			position: sticky;
 			top: 0;	
 		}
@@ -129,15 +127,11 @@
 
 .post-image-gallery {
 
-	picture {
+	img {
+		width: 100%;
+		height: auto;
 		display: block;
 		margin: 0 0 1rem 0;
-
-		img {
-			width: 100%;
-			height: auto;
-			display: block;
-		}
 		
 		&:last-child {
 			margin-bottom: 0;
@@ -145,6 +139,6 @@
 	}
 
 	@media (min-width: 768px){
-		picture { margin: 0 0 3rem 0; }
+		img { margin: 0 0 3rem 0; }
 	}
 }

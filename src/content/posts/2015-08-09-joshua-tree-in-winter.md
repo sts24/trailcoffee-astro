@@ -2,28 +2,28 @@
 title: Joshua Tree in Winter
 date: 2015-08-09T18:03:33+00:00
 excerpt: Joshua Tree National Park
-permalink: /joshua-tree-in-winter/
+slug: joshua-tree-in-winter
 coords: '34.011541438894824, -116.16746137441292'
-image: "/v1580148807/trailcoffee/IMG_5502.jpg"
+image: "trailcoffee/IMG_5502.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0129_4912.jpg"
+    image: "trailcoffee/IMG_0129_4912.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0182.jpg"
+    image: "trailcoffee/IMG_0182.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0193_4971.jpg"
+    image: "trailcoffee/IMG_0193_4971.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0207.jpg"
+    image: "trailcoffee/IMG_0207.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_0252.jpg"
+    image: "trailcoffee/IMG_0252.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5475.jpg"
+    image: "trailcoffee/IMG_5475.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5480.jpg"
+    image: "trailcoffee/IMG_5480.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5493.jpg"
+    image: "trailcoffee/IMG_5493.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_5502.jpg"
+    image: "trailcoffee/IMG_5502.jpg"
 tags:
   - joshua-tree
 ---

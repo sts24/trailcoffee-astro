@@ -2,24 +2,24 @@
 title: Paramount Ranch
 date: 2015-08-31T02:08:24+00:00
 excerpt: Santa Monica Mountains
-permalink: /paramount-ranch/
+slug: paramount-ranch
 coords: '34.11705035285639, -118.75481853328614'
-image: "/v1580148807/trailcoffee/DSCF1835.jpg"
+image: "trailcoffee/DSCF1835.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF1830.jpg"
+    image: "trailcoffee/DSCF1830.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF1833.jpg"
+    image: "trailcoffee/DSCF1833.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF1834.jpg"
+    image: "trailcoffee/DSCF1834.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF1835.jpg"
+    image: "trailcoffee/DSCF1835.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF1837.jpg"
+    image: "trailcoffee/DSCF1837.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF1838.jpg"
+    image: "trailcoffee/DSCF1838.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/Photo-May-29-3-34-50-PM.jpg"
+    image: "trailcoffee/Photo-May-29-3-34-50-PM.jpg"
 tags:
   - santa-monica-mountains
 ---

@@ -2,32 +2,32 @@
 title: North Dome
 date: 2015-06-08T01:24:20+00:00
 excerpt: Yosemite National Park
-permalink: /north-dome/
+slug: north-dome
 coords: '37.756835553882624, -119.56016379582525'
-image: "/v1580148807/trailcoffee/IMG_9889.jpg"
+image: "trailcoffee/IMG_9889.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9846.jpg"
+    image: "trailcoffee/IMG_9846.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9847.jpg"
+    image: "trailcoffee/IMG_9847.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9858.jpg"
+    image: "trailcoffee/IMG_9858.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9874.jpg"
+    image: "trailcoffee/IMG_9874.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9877.jpg"
+    image: "trailcoffee/IMG_9877.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9888.jpg"
+    image: "trailcoffee/IMG_9888.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9889.jpg"
+    image: "trailcoffee/IMG_9889.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9907.jpg"
+    image: "trailcoffee/IMG_9907.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9910.jpg"
+    image: "trailcoffee/IMG_9910.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9911.jpg"
+    image: "trailcoffee/IMG_9911.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_9913.jpg"
+    image: "trailcoffee/IMG_9913.jpg"
 tags:
   - yosemite
 ---

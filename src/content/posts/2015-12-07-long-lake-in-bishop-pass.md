@@ -2,28 +2,28 @@
 title: Long Lake
 date: 2015-12-07T01:44:49+00:00
 excerpt: Inyo National Forest
-permalink: /long-lake-in-bishop-pass/
+slug: long-lake-in-bishop-pass
 coords: '37.145559699642874, -118.55671481546739'
-image: "/v1580148807/trailcoffee/DSCF2582.jpg"
+image: "trailcoffee/DSCF2582.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2556.jpg"
+    image: "trailcoffee/DSCF2556.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2563.jpg"
+    image: "trailcoffee/DSCF2563.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2570.jpg"
+    image: "trailcoffee/DSCF2570.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2582.jpg"
+    image: "trailcoffee/DSCF2582.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2585.jpg"
+    image: "trailcoffee/DSCF2585.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2581.jpg"
+    image: "trailcoffee/DSCF2581.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2594.jpg"
+    image: "trailcoffee/DSCF2594.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2600.jpg"
+    image: "trailcoffee/DSCF2600.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF2572.jpg"
+    image: "trailcoffee/DSCF2572.jpg"
 tags:
   - eastern-sierra-nevada
 ---

@@ -2,32 +2,32 @@
 title: San Antonio Falls
 date: 2016-09-26T01:53:04+00:00
 excerpt: Mt. Baldy
-permalink: /san-antonio-falls/
+slug: san-antonio-falls
 coords: '34.27064350585318, -117.63273246040066'
-image: "/v1580148807/trailcoffee/DSCF4416.jpg"
+image: "trailcoffee/DSCF4416.jpg"
 images:
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4382.jpg"
+    image: "trailcoffee/DSCF4382.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4389.jpg"
+    image: "trailcoffee/DSCF4389.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4388.jpg"
+    image: "trailcoffee/DSCF4388.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4396.jpg"
+    image: "trailcoffee/DSCF4396.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4393.jpg"
+    image: "trailcoffee/DSCF4393.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4400.jpg"
+    image: "trailcoffee/DSCF4400.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4416.jpg"
+    image: "trailcoffee/DSCF4416.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4404.jpg"
+    image: "trailcoffee/DSCF4404.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4401.jpg"
+    image: "trailcoffee/DSCF4401.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/DSCF4419.jpg"
+    image: "trailcoffee/DSCF4419.jpg"
   - alt: 
-    image: "/v1580148807/trailcoffee/IMG_7543.jpg"
+    image: "trailcoffee/IMG_7543.jpg"
 tags:
   - san-gabriel-mountains
 ---
