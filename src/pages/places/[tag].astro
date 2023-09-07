@@ -1,5 +1,5 @@
 ---
-import Base from '@/layouts/Base.astro';
+import Page from '@/layouts/Page.astro';
 import { getCollection } from 'astro:content';
 import placeTags from '../../data/places.json';
 import PostCard from '@/components/PostCard.astro';
@@ -28,14 +28,17 @@ export async function getStaticPaths() {
 
 
 ---
-<Base title={placeTags[tag].fullname}>
+<Page title={placeTags[tag].fullname}>
 
   <div class="row">
     <div class="col-s-12 recent-posts">
+
+      <h1 class="places-page-heading" style={`background-color: ${placeTags[tag].color};`}>{placeTags[tag].fullname}</h1>
+
       <div class="post-card-wrapper">
         { posts.map(post => <PostCard post={post} />) }
       </div>
     </div>
   </div>
   
-</Base>
+</Page>
