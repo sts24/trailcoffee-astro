@@ -1,5 +1,7 @@
 ---
+import placeData from '../data/places.json';
 
+const currentYear = new Date().getFullYear();
 ---
 
 <footer class="site-footer">
@@ -8,16 +10,16 @@
 		<div class="col-s-12">
 			<header>Places</header>
 			<ul>
-				<!-- {% for key, place in placeData %}
-					<li><a href="/places/{{ place.slug }}/">{{ place.fullname }}</a></li>
-				{% endfor %} -->
+				{ Object.values(placeData).map((place) => (
+					<li><a href={`/places/${place.slug}`}>{place.fullname}</a></li>
+				))}
 			</ul>
 		</div>
 	</nav>
 
 	<div class="row padding-x-3">
 		<div class="col-s-12">
-			<p>&copy;2021 <a href="https://www.smithscott.net">Scott Smith</a></p>
+			<p>Trail Coffee is produced by <a href="https://www.smithscott.net">Scott Smith</a> &copy; {currentYear}</p>
 		</div>
 	</div>
 
