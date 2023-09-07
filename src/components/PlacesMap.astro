@@ -1,0 +1,83 @@
+---
+
+
+---
+
+<div id="map-all-places" style="height: 600px; margin-top: 3rem;"></div>
+
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
+<script is:inline src="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.js"></script>
+
+<script is:inline defer>
+
+  mapboxgl.accessToken = 'pk.eyJ1Ijoic3RzMjQiLCJhIjoiOVB0MlNrbyJ9.aIGsCG9-ISYzL-jNTaz5cg';
+
+  var map = new mapboxgl.Map({
+    container: 'map-all-places',
+    style: 'mapbox://styles/mapbox/streets-v11',
+    zoom: 3,
+    center: [-103.7715563, 44.9672434] // center of united states
+  });
+
+
+
+  // label popups
+
+  var popup = new mapboxgl.Popup({
+    closeButton: false,
+    closeOnClick: false,
+    anchor: 'top'
+  });
+
+
+  // get the first and last data points and make map markers
+
+  async function mapData() {
+    await fetch('/data/places.json').then(res => res.json()).then(data => {
+
+      data.forEach(place => {
+
+        const coordArray = place.coords.split(',');
+        const placeLink = `/${place.slug}`;
+        const placeName = place.fullname;
+        const placeCoords = [coordArray[1], coordArray[0]];
+
+        const placeMarker = new mapboxgl.Marker()
+          .setLngLat(placeCoords)
+          .addTo(map);
+
+        // go to place on click
+        placeMarker.getElement().addEventListener('click', () => {
+          window.location.href = placeLink;
+        });
+
+        // show popup label on mouseover
+        placeMarker.getElement().addEventListener('mouseover', () => {
+          popup.setLngLat(placeCoords).setHTML(placeName).addTo(map);
+        });
+
+        // remove popup label on mouseleave
+        placeMarker.getElement().addEventListener('mouseleave', () => {
+          popup.remove();
+        });
+      })
+    });
+  }
+
+mapData();
+
+
+// add reference scale
+var scale = new mapboxgl.ScaleControl({
+	maxWidth: 200,
+	unit: 'imperial'
+});
+map.addControl(scale);
+
+// add navigation controls
+var nav = new mapboxgl.NavigationControl();
+map.addControl(nav, 'top-left');
+
+</script>
+
+

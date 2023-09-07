@@ -1,6 +1,7 @@
 ---
 import Page from '@/layouts/Page.astro';
 import placeTags from '../../data/places.json';
+import PlacesMap from '@/components/PlacesMap.astro';
 ---
 
 <Page title="Places">
@@ -14,5 +15,7 @@ import placeTags from '../../data/places.json';
       </li>
     ))}
   </ul>
+
+  <PlacesMap />
 
 </Page>

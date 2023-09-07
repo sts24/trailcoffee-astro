@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.10.9",
+    "astro": "^3.0.10",
     "astro-cloudinary-image": "^0.0.6",
     "mapbox-gl": "^2.15.0"
   },
