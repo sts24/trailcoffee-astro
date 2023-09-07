@@ -1,0 +1,41 @@
+---
+import Base from '@/layouts/Base.astro';
+import { getCollection } from 'astro:content';
+import placeTags from '../../data/places.json';
+import PostCard from '@/components/PostCard.astro';
+
+const { posts } = Astro.props;
+const { tag } = Astro.params;
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  const taggedPosts = []
+  
+  Object.values(placeTags).forEach((tag) => {
+
+    const filteredPosts = allPosts.filter((post) => {      
+      return post.data.tags.flat()[0].includes(tag.slug)   
+    });
+
+    taggedPosts.push({
+      params: { tag: tag.slug },
+      props: { posts: filteredPosts }
+    });
+  });
+
+  return taggedPosts;
+}
+
+
+---
+<Base title={placeTags[tag].fullname}>
+
+  <div class="row">
+    <div class="col-s-12 recent-posts">
+      <div class="post-card-wrapper">
+        { posts.map(post => <PostCard post={post} />) }
+      </div>
+    </div>
+  </div>
+  
+</Base>

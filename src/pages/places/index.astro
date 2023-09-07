@@ -1,0 +1,18 @@
+---
+import Page from '@/layouts/Page.astro';
+import placeTags from '../../data/places.json';
+---
+
+<Page title="Places">
+
+  <h1 class="places-index-title margin-bottom-places-index-header">Find a Hike by Region</h1>
+
+  <ul class="places-nav">
+    {Object.values(placeTags).map((tag) => (
+      <li>
+        <a href={`/places/${tag.slug}/`} class="places-index-link" style={`background-color: ${tag.color};`}>{tag.fullname}</a>
+      </li>
+    ))}
+  </ul>
+
+</Page>
