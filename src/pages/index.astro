@@ -4,44 +4,17 @@ import Base from '@/layouts/Base.astro';
 import PostCard from '@/components/PostCard.astro';
 
 const allPosts = await getCollection('posts');
+const filteredPosts = allPosts.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()).splice(0,5);
 
 ---
 <Base title="Trail Coffee">
-  <header class="margin-bottom-3">
-    <div class="row row-expanded row-vertical-center top-post">
-      <!-- {% for post in collections.post | reverse %}
-        {% if loop.first %}
-
-          {% set imgID = post.data.image | getImgID %}
-          {% set imgMeta = imageData[imgID] %}
-
-          <div class="col-s-12 col-m-6 padding-0 top-post-image-container">
-            <a href="{{ post.data.permalink }}"><img src="{% imgPath post.data.image, '1200', '1200', 'fit' %}" class="top-post-image" alt="photo of {{ post.data.title }}" width="{{ imgMeta.width }}" height="{{ imgMeta.height }}" /></a>
-          </div>
-          <div class="col-s-12 col-m-6 top-post-info">
-            <p class="top-post-lead-in">Latest Hike</p>
-            <h1 class="margin-0"><a href="{{ post.data.permalink }}">{{ post.data.title }}</a></h1>
-            <p class="margin-top-0">{{ post.data.excerpt }}</p>
-            <a href="{{ post.data.permalink }}" class="button">Read about this hike</a>
-          </div>
-
-        {% endif %}
-      {% endfor %} -->
-    </div>
-  </header>
 
   <div class="row">
-
     <div class="col-s-12 recent-posts">
-      <h2>Find a Hike</h2>
-
-      <div class="post-card-wrapper">
-
-      { allPosts.map(post => <PostCard post={post} />)}
-
-      </div>
-
+      <h2>Latest on Trail Coffee</h2>
+      { filteredPosts.map(post => <PostCard post={post} wide={true} />)}
+      <div class="margin-x-4"><a href="/places" class="button">Find More Hikes</a></div>
     </div>
-
   </div>
+
 </Base>

@@ -1,4 +1,5 @@
 import { getCollection } from 'astro:content';
+import placeData from '../../data/places.json';
 
 const allPosts = await getCollection('posts');
 const mapData = allPosts.map(post => {
@@ -8,7 +9,7 @@ const mapData = allPosts.map(post => {
     coords: post.data.coords,
     image: post.data.image,
     excerpt: post.data.excerpt,
-    tags: post.data.tags.flat()
+    tags: placeData[post.data.tags.flat()]
   }
 });
 

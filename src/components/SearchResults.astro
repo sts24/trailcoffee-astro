@@ -1,18 +1,27 @@
 <section class="results" x-data="results">
-  <template x-if="searchResults.length > 0" x-for="item in searchResults" :key="item.slug">
-    <div class="result">
-      <div class="result__title"><a :href="`/${item.slug}`" x-text="item.fullname"></a></div>
-      <div class="result__excerpt" x-text="item.excerpt"></div>
+  <tempalte x-if="searchResults.length > 0">
+    <h1><span x-text="searchResults.length"></span> results for "<span x-text="keyword"></span>"</h1>
+  </tempalte>
 
-      <img 
-        :src="`https://res.cloudinary.com/stsmith/image/upload/c_thumb,w_400,h_400,g_auto/v1654612780/${item.image}`"
-        :alt="`Photo of ${item.fullname}"
-        width="200"
-        height="200"
-        class="result__image"
-      />
-
-    </div>
+  <template x-for="item in searchResults" :key="item.slug">
+    <article class="post-card post-card--wide">
+      <header class="post-card__header" :style="`border-top: 4px solid ${item.tags.color}`">
+        <h2><a href="`/places/${item.tags.slug}`" x-text="item.tags.fullname"></a></h2>
+      </header>
+    
+      <a href="`/${item.slug}`" class="post-card__image">
+        <img 
+          :src="`https://res.cloudinary.com/stsmith/image/upload/c_thumb,w_400,h_400,g_auto/v1654612780/${item.image}`"
+          :alt="`Photo of ${item.fullname}`"
+          width="200"
+          height="200"
+        />
+      </a>
+      <div class="post-card__meta">
+        <div class="post-card__meta-title"><a href="`/${item.slug}`" x-text="item.fullname"></a></div>
+        <p class="post-card__meta-excerpt" x-text="item.excerpt"></p>
+      </div>
+    </article>
   </template>
 </section>
 
@@ -25,13 +34,15 @@
       searchResults: [],
       init(){
         const URLparams = new URLSearchParams(location.search);
-        this.keyword = URLparams.get('keyword');
+        this.keyword = URLparams.get('keyword') ? URLparams.get('keyword') : '';
 
-        fetch('/data/places.json')
-          .then(response => response.json())
-          .then(res => {
-            this.getResults(res);
-          });
+        if(this.keyword !== ''){
+          fetch('/data/places.json')
+            .then(response => response.json())
+            .then(res => {
+              this.getResults(res);
+            });
+        }
       },
       getResults(res){
         if(this.keyword.length > 3){

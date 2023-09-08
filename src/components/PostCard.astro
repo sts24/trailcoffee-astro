@@ -1,16 +1,18 @@
 ---
 import { Cloudinary } from 'astro-cloudinary-image';
 import placesData from '../data/places.json';
-const { post } = Astro.props;
+const { post, wide } = Astro.props;
+console.log(wide);
+const cardStyle = wide !== undefined ? 'post-card--wide' : '';
 
 const placeTag = placesData[post.data.tags];
 ---
-<article class="post-card">
-	<header class="post-card-header" style={`border-top: 4px solid ${placeTag.color}`}>
+<article class={`post-card ${cardStyle}`}>
+	<header class="post-card__header" style={`border-top: 4px solid ${placeTag.color}`}>
 		<h2><a href={`/places/${placeTag.slug}`}>{ placeTag.fullname }</a></h2>
 	</header>
 
-	<a href={`/${post.data.slug}`} class="post-card-img" aria-label="{ post.data.title }">
+	<a href={`/${post.data.slug}`} class="post-card__image" aria-label="{ post.data.title }">
 		<Cloudinary 
       width="800"
       height="800"
@@ -20,8 +22,8 @@ const placeTag = placesData[post.data.tags];
 			errorImage=''
     />
 	</a>
-	<div class="post-card-meta">
-		<div class="post-title"><a href={`/${post.data.slug}`}>{ post.data.title }</a></div>
-		<p class="excerpt">{ post.data.excerpt }</p>
+	<div class="post-card__meta">
+		<div class="post-card__meta-title"><a href={`/${post.data.slug}`}>{ post.data.title }</a></div>
+		<p class="post-card__meta-excerpt">{ post.data.excerpt }</p>
 	</div>
 </article>

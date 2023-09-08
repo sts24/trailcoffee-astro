@@ -1,4 +1,4 @@
-<form class="site-search-wrapper" x-data="search" action="/search">
+<form class="site-search-wrapper" action="/search">
 
 	<label for="site-search" class="sr-only">Search</label>
 	
@@ -8,17 +8,6 @@
 		type="search" 
 		placeholder="Search Trail Coffee" 
 		class="site-search-field" 
-		x-bind="searchInput"
 	/>
 
-	<template x-bind="searchResultsContainer" >
-		<ul class="site-search-results">
-			<template x-for="item in searchResults" :key="item.slug">
-				<li><a :href="`/${item.slug}`" x-text="item.fullname"></li>
-			</template>
-		</ul>
-	</template>
-
 </form>
-
-<script src="../scripts/search.js"></script>
