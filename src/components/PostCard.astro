@@ -2,7 +2,7 @@
 import { Cloudinary } from 'astro-cloudinary-image';
 import placesData from '../data/places.json';
 const { post, wide } = Astro.props;
-console.log(wide);
+
 const cardStyle = wide !== undefined ? 'post-card--wide' : '';
 
 const placeTag = placesData[post.data.tags];
