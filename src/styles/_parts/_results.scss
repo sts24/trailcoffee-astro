@@ -1,0 +1,23 @@
+.result {
+  display: grid;
+  grid-gap: 2rem;
+  grid-template-columns: auto 1fr;
+  grid-template-areas: 
+    "image title"
+    "image excerpt";
+
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
+
+.result__title {
+  grid-area: title;
+}
+
+.result__excerpt {
+  grid-area: excerpt;
+}
+
+.result__image {
+  grid-area: image;
+}

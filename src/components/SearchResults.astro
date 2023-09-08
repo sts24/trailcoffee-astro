@@ -2,6 +2,16 @@
   <template x-if="searchResults.length > 0" x-for="item in searchResults" :key="item.slug">
     <div class="result">
       <div class="result__title"><a :href="`/${item.slug}`" x-text="item.fullname"></a></div>
+      <div class="result__excerpt" x-text="item.excerpt"></div>
+
+      <img 
+        :src="`https://res.cloudinary.com/stsmith/image/upload/c_thumb,w_400,h_400,g_auto/v1654612780/${item.image}`"
+        :alt="`Photo of ${item.fullname}"
+        width="200"
+        height="200"
+        class="result__image"
+      />
+
     </div>
   </template>
 </section>
