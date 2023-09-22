@@ -16,6 +16,7 @@
     "alpinejs": "^3.13.0",
     "astro": "^3.0.10",
     "astro-cloudinary-image": "^0.0.6",
+    "astro-seo-metadata": "^0.6.0",
     "mapbox-gl": "^2.15.0"
   },
   "devDependencies": {

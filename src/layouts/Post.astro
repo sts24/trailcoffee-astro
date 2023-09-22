@@ -7,7 +7,7 @@ import placesData from '../data/places.json';
 const { frontmatter } = Astro.props;
 const placeTag = placesData[frontmatter.tags];
 ---
-<Base title={frontmatter.title}>
+<Base title={frontmatter.title} image={frontmatter.image}>
   <article class="post-article">
 		<header class="post-header">
 			<h1 class="margin-x-0">{ frontmatter.title }</h1>
