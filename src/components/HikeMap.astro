@@ -22,7 +22,8 @@ var map = new mapboxgl.Map({
 	zoom: 12
 });
 
-if(geoJSONfile !== ''){
+if(geoJSONfile !== undefined){
+
 	map.on('load', function () {
 
 		map.addSource("route", {
