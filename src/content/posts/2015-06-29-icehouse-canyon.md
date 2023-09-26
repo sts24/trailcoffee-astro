@@ -1,6 +1,6 @@
 ---
 title: Icehouse Canyon
-date: 2015-06-29T01:15:33+00:00
+date: 2015-06-29
 excerpt: San Gabriel Mountains
 slug: icehouse-canyon
 coords: '34.250171878454665, -117.63601463300084'

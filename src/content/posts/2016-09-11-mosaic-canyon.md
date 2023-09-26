@@ -1,6 +1,6 @@
 ---
 title: Mosaic Canyon
-date: 2016-09-11T20:38:04+00:00
+date: 2016-09-11
 excerpt: Death Valley National Park
 slug: mosaic-canyon
 coords: '36.571917270890424, -117.14443551041539'

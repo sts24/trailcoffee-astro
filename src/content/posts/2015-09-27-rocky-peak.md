@@ -1,6 +1,6 @@
 ---
 title: Rocky Peak
-date: 2015-09-27T23:30:20+00:00
+date: 2015-09-27
 excerpt: Simi Valley, Ca
 slug: rocky-peak
 coords: '34.26832744643703,-118.63760541189211'

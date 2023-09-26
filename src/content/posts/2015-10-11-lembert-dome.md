@@ -1,6 +1,6 @@
 ---
 title: Lembert Dome
-date: 2015-10-11T22:24:14+00:00
+date: 2015-10-11
 excerpt: Yosemite National Park
 slug: lembert-dome
 coords: '37.880560884678495, -119.3489308175895'

@@ -1,6 +1,6 @@
 ---
 title: Long Lake
-date: 2015-12-07T01:44:49+00:00
+date: 2015-12-07
 excerpt: Inyo National Forest
 slug: long-lake-in-bishop-pass
 coords: '37.145559699642874, -118.55671481546739'

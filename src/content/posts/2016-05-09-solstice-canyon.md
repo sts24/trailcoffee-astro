@@ -1,6 +1,6 @@
 ---
 title: Solstice Canyon
-date: 2016-05-09T03:40:54+00:00
+date: 2016-05-09
 excerpt: Malibu, Ca
 slug: solstice-canyon
 coords: '34.0377171118512, -118.74739945912927'

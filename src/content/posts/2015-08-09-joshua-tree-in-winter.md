@@ -1,6 +1,6 @@
 ---
 title: Joshua Tree in Winter
-date: 2015-08-09T18:03:33+00:00
+date: 2015-08-09
 excerpt: Joshua Tree National Park
 slug: joshua-tree-in-winter
 coords: '34.011541438894824, -116.16746137441292'

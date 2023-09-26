@@ -1,31 +1,30 @@
 ---
-date: 2021-01-05T20:38:31.000-08:00
 title: Mount Pinos
+date: 2021-01-05
 excerpt: Los Padres National Forest
 slug: mount-pinos
-coords: 34.812855353757435, -119.14555738332662
+coords: "34.812855353757435, -119.14555738332662"
 gpx: 'mount-pinos.gpx'
 image: "trailcoffee/IMG_1404_opwppm.jpg"
 images:
-- alt: The Chumash monument at the top
-  image: "trailcoffee/IMG_1408_wnqkpr.jpg"
-- alt: Looking west from the summit
-  image: "trailcoffee/IMG_1407_qrv4b0.jpg"
-- alt: Looking from the summit over the Central Valley to the north
-  image: "trailcoffee/IMG_1404_qt03uy.jpg"
-- alt: Looking over Pine Mountain Club and the San Emgidio Range
-  image: "trailcoffee/DSCF6425_vhlefu.jpg"
-- alt: The path that leads to the overlook of Pine Mountain Club
-  image: "trailcoffee/DSCF6424_ermtn5.jpg"
-- alt: A Western Wallflower
-  image: "trailcoffee/DSCF6421_sbjmwq.jpg"
-- alt: Trees near the start of the trail
-  image: "trailcoffee/DSCF6416_metvqd.jpg"
-- alt: The meadow near the Nordic Base at the trailhead
-  image: "trailcoffee/meadow_gdv97x.jpg"
+  - alt: "The Chumash monument at the top"
+    image: "trailcoffee/IMG_1408_wnqkpr.jpg"
+  - alt: "Looking west from the summit"
+    image: "trailcoffee/IMG_1407_qrv4b0.jpg"
+  - alt: "Looking from the summit over the Central Valley to the north"
+    image: "trailcoffee/IMG_1404_qt03uy.jpg"
+  - alt: "Looking over Pine Mountain Club and the San Emgidio Range"
+    image: "trailcoffee/DSCF6425_vhlefu.jpg"
+  - alt: "The path that leads to the overlook of Pine Mountain Club"
+    image: "trailcoffee/DSCF6424_ermtn5.jpg"
+  - alt: "A Western Wallflower"
+    image: "trailcoffee/DSCF6421_sbjmwq.jpg"
+  - alt: "Trees near the start of the trail"
+    image: "trailcoffee/DSCF6416_metvqd.jpg"
+  - alt: "The meadow near the Nordic Base at the trailhead"
+    image: "trailcoffee/meadow_gdv97x.jpg"
 tags:
-- ventura-county
-
+  - ventura-county
 ---
 Mount Pinos is a roughly 8,800 foot mountain near the town of Frazier Park, Ca. While it is the highest point in the San Emigdio range, it is a fairly low-profile peak with only a gradual climb from the trailhead's parking lot.
 

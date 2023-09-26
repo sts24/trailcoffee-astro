@@ -1,6 +1,6 @@
 ---
 title: Cheseboro Canyon
-date: 2016-03-23T20:25:42+00:00
+date: 2016-03-23
 excerpt: Agoura Hills, Ca
 slug: cheseboro-canyon
 coords: '34.15615624197106, -118.73113626376333'

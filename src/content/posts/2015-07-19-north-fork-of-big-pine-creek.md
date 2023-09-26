@@ -1,6 +1,6 @@
 ---
 title: North Fork of Big Pine Creek
-date: 2015-07-19T23:58:51+00:00
+date: 2015-07-19
 excerpt: Inyo National Forest
 slug: north-fork-of-big-pine-creek
 coords: '37.12559873488271, -118.48688704650532'

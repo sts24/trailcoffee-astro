@@ -1,6 +1,6 @@
 ---
 title: Mist Trail
-date: 2016-09-17T18:19:35+00:00
+date: 2016-09-17
 excerpt: Yosemite National Park
 slug: mist-trail
 coords: '37.726098321527196, -119.54906023194147'

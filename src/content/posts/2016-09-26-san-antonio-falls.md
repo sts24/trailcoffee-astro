@@ -1,6 +1,6 @@
 ---
 title: San Antonio Falls
-date: 2016-09-26T01:53:04+00:00
+date: 2016-09-26
 excerpt: Mt. Baldy
 slug: san-antonio-falls
 coords: '34.27064350585318, -117.63273246040066'

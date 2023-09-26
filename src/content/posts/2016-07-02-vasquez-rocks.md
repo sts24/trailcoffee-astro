@@ -1,6 +1,6 @@
 ---
 title: Vasquez Rocks
-date: 2016-07-02T00:41:43+00:00
+date: 2016-07-02
 excerpt: Agua Dulce, Ca
 slug: vasquez-rocks
 coords: '34.485824847740865, -118.31429037090878'

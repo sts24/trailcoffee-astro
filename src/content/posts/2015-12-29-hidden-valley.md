@@ -1,6 +1,6 @@
 ---
 title: Hidden Valley
-date: 2015-12-29T02:19:08+00:00
+date: 2015-12-29
 excerpt: Joshua Tree National Park
 slug: hidden-valley
 coords: '34.01186487731279, -116.169459956855'

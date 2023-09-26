@@ -1,6 +1,6 @@
 ---
 title: North Rim Hiking
-date: 2015-09-09T14:51:45+00:00
+date: 2015-09-09
 excerpt: Grand Canyon National Park
 slug: north-rim-hiking
 coords: '36.20208048147961, -112.0523433711914'

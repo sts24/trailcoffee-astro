@@ -1,6 +1,6 @@
 ---
 title: Paramount Ranch
-date: 2015-08-31T02:08:24+00:00
+date: 2015-08-31
 excerpt: Santa Monica Mountains
 slug: paramount-ranch
 coords: '34.11705035285639, -118.75481853328614'

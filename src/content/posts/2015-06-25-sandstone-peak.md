@@ -1,6 +1,6 @@
 ---
 title: Sandstone Peak
-date: 2015-06-25T02:20:41+00:00
+date: 2015-06-25
 excerpt: Santa Monica Mountains
 slug: sandstone-peak
 coords: '34.12032845399646, -118.93204910583131'

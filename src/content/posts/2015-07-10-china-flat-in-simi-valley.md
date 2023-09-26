@@ -1,6 +1,6 @@
 ---
 title: China Flat
-date: 2015-07-10T03:06:15+00:00
+date: 2015-07-10
 excerpt: Simi Valley, Ca
 slug: china-flat-in-simi-valley
 coords: '34.20647817185624, -118.77627751600582'

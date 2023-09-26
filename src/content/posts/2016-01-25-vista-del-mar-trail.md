@@ -1,6 +1,6 @@
 ---
 title: Vista Del Mar Trail
-date: 2016-01-25T02:11:29+00:00
+date: 2016-01-25
 excerpt: Newbury Park, Ca
 slug: vista-del-mar-trail
 coords: '34.169536793294036, -118.99704576613179'

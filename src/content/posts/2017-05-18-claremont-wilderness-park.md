@@ -1,6 +1,6 @@
 ---
 title: Claremont Wilderness Park
-date: 2017-05-18T02:55:25+00:00
+date: 2017-05-18
 excerpt: Claremont, Ca
 slug: claremont-wilderness-park
 coords: '34.14265135617405, -117.70781315859838'

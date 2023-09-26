@@ -1,6 +1,6 @@
 ---
 title: Piedra Blanca
-date: 2016-04-03T23:05:53+00:00
+date: 2016-04-03
 excerpt: Ojai, Ca
 slug: piedra-blanca
 coords: '34.560237519122815, -119.16464449046299'

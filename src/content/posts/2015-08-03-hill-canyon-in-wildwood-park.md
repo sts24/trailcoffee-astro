@@ -1,6 +1,6 @@
 ---
 title: Hill Canyon
-date: 2015-08-03T03:55:17+00:00
+date: 2015-08-03
 excerpt: Camarillo, Ca
 slug: hill-canyon-in-wildwood-park
 coords: '34.22693139528978, -118.93043588626199'

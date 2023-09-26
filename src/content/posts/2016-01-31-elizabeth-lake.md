@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Lake
-date: 2016-01-31T23:35:27+00:00
+date: 2016-01-31
 excerpt: Tuolumne Meadows
 slug: elizabeth-lake
 coords: '37.84491224575275, -119.36872258591804'

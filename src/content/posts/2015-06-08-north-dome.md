@@ -1,6 +1,6 @@
 ---
 title: North Dome
-date: 2015-06-08T01:24:20+00:00
+date: 2015-06-08
 excerpt: Yosemite National Park
 slug: north-dome
 coords: '37.756835553882624, -119.56016379582525'

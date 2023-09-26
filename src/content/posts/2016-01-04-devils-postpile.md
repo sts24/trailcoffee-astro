@@ -1,6 +1,6 @@
 ---
 title: "Devils Postpile"
-date: 2016-01-04T02:21:55+00:00
+date: 2016-01-04
 excerpt: Mammoth Lakes
 slug: devils-postpile
 coords: '37.62517656389745, -119.08505150665609'
