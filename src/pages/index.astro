@@ -4,7 +4,7 @@ import Base from '@/layouts/Base.astro';
 import PostCard from '@/components/PostCard.astro';
 
 const allPosts = await getCollection('posts');
-const filteredPosts = allPosts.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()).splice(0,5);
+const latestPosts = allPosts.sort((a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()).slice(0,5);
 
 ---
 <Base title="Trail Coffee">
@@ -12,7 +12,7 @@ const filteredPosts = allPosts.sort((a, b) => new Date(b.data.date).valueOf() - 
   <div class="row">
     <div class="col-s-12 recent-posts">
       <h2>Latest on Trail Coffee</h2>
-      { filteredPosts.map(post => <PostCard post={post} wide={true} />)}
+      { latestPosts.map(post => <PostCard post={post} wide={true} />)}
       <div class="margin-x-4"><a href="/places" class="button">Find More Hikes</a></div>
     </div>
   </div>
